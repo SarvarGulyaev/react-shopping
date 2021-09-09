@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%20//SarvarGulyaev.github.io/react-shopping/static/css/main.5af53560.chunk.css",
+    "main.js": "/%20//SarvarGulyaev.github.io/react-shopping/static/js/main.0f21abde.chunk.js",
+    "main.js.map": "/%20//SarvarGulyaev.github.io/react-shopping/static/js/main.0f21abde.chunk.js.map",
+    "runtime-main.js": "/%20//SarvarGulyaev.github.io/react-shopping/static/js/runtime-main.af447f8a.js",
+    "runtime-main.js.map": "/%20//SarvarGulyaev.github.io/react-shopping/static/js/runtime-main.af447f8a.js.map",
+    "static/js/2.d227bc4d.chunk.js": "/%20//SarvarGulyaev.github.io/react-shopping/static/js/2.d227bc4d.chunk.js",
+    "static/js/2.d227bc4d.chunk.js.map": "/%20//SarvarGulyaev.github.io/react-shopping/static/js/2.d227bc4d.chunk.js.map",
+    "index.html": "/%20//SarvarGulyaev.github.io/react-shopping/index.html",
+    "static/css/main.5af53560.chunk.css.map": "/%20//SarvarGulyaev.github.io/react-shopping/static/css/main.5af53560.chunk.css.map",
+    "static/js/2.d227bc4d.chunk.js.LICENSE.txt": "/%20//SarvarGulyaev.github.io/react-shopping/static/js/2.d227bc4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af447f8a.js",
+    "static/js/2.d227bc4d.chunk.js",
+    "static/css/main.5af53560.chunk.css",
+    "static/js/main.0f21abde.chunk.js"
+  ]
+}
